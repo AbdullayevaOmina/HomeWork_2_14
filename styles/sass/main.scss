@@ -1,0 +1,101 @@
+.d-img {
+    padding-right: 25px;
+}
+.btn1 {
+    background-color: #3c337d;
+    color: white;
+}
+.btn2 {
+    background-color: #e72c79;
+    color: white;
+}
+.second-nav, .nav-3 {
+    background-color: #eaedf2;
+}
+.blocks {
+    width: 80px;
+    height: 655px;
+    background-color: #5E4AE3;
+    align-items: center;
+    border-radius: 0 50px 50px 0;
+}
+#showcase {
+    background-color: #eaedf2;
+}
+.gl {
+    border-radius: 50%;
+    margin-top: 3%;
+}
+.search1 {
+    background-color: #f8f9fa;
+}
+.search-block {
+    width: 291px;
+    height: 500px;
+}
+.one {
+    width: 15px;
+    height: 15px;
+}
+.seen {
+    width: 15.33px;
+    height: 9.62px;
+}
+.name {
+    color: #000;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.introduse {
+    color: #999;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    
+}
+.time {
+    color: #000;
+font-family: Poppins;
+font-size: 10px;
+font-style: normal;
+font-weight: 300;
+
+}
+.one1 {
+    visibility: hidden;
+}
+
+.in-search {
+    margin-bottom: 5%;
+}
+.s-one {
+    margin-left: 17%;
+}
+.s1-one {
+    margin-left: 37%;
+}
+.s2-one {
+    margin-left: 37%;
+}
+.btn-ava1 {
+    width: 125px;
+    background-color: #5E4AE3;
+    border: none;
+}
+.btn-ava2 {
+    width: 125px;
+    background-color: #f2f2f2;
+    border: none;
+    color: black;
+}
+.voice {
+    background-color: #5E4AE3;
+    
+}
+
+
+@import "videoChat"

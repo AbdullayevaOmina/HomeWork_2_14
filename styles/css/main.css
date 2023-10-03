@@ -1,0 +1,192 @@
+.d-img {
+  padding-right: 25px;
+}
+
+.btn1 {
+  background-color: #3c337d;
+  color: white;
+}
+
+.btn2 {
+  background-color: #e72c79;
+  color: white;
+}
+
+.second-nav, .nav-3 {
+  background-color: #eaedf2;
+}
+
+.blocks {
+  width: 80px;
+  height: 655px;
+  background-color: #5E4AE3;
+  align-items: center;
+  border-radius: 0 50px 50px 0;
+}
+
+#showcase {
+  background-color: #eaedf2;
+}
+
+.gl {
+  border-radius: 50%;
+  margin-top: 3%;
+}
+
+.search1 {
+  background-color: #f8f9fa;
+}
+
+.search-block {
+  width: 291px;
+  height: 500px;
+}
+
+.one {
+  width: 15px;
+  height: 15px;
+}
+
+.seen {
+  width: 15.33px;
+  height: 9.62px;
+}
+
+.name {
+  color: #000;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.introduse {
+  color: #999;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.time {
+  color: #000;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.one1 {
+  visibility: hidden;
+}
+
+.in-search {
+  margin-bottom: 5%;
+}
+
+.s-one {
+  margin-left: 17%;
+}
+
+.s1-one {
+  margin-left: 37%;
+}
+
+.s2-one {
+  margin-left: 37%;
+}
+
+.btn-ava1 {
+  width: 125px;
+  background-color: #5E4AE3;
+  border: none;
+}
+
+.btn-ava2 {
+  width: 125px;
+  background-color: #f2f2f2;
+  border: none;
+  color: black;
+}
+
+.voice {
+  background-color: #5E4AE3;
+}
+
+.video-chat {
+  width: 911px;
+  height: 716px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #140e39;
+}
+
+.vs-nav {
+  border-radius: 10px 10px 0px 0px;
+  background: #0f0a2b;
+}
+
+.i {
+  display: flex;
+  width: 22px;
+  height: 22px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.vc-section {
+  width: 911px;
+  height: 612px;
+  flex-shrink: 0;
+  background: #140e39;
+}
+
+.vc-s-time {
+  width: 75px;
+  height: 25px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  border: 1px solid #fff;
+}
+
+.img-dot {
+  width: 6px;
+  height: 6px;
+  flex-shrink: 0;
+}
+
+.vc-imgs {
+  border-radius: 150px;
+}
+
+.vc-footer {
+  width: 911px;
+  height: 60px;
+  flex-shrink: 0;
+  border-radius: 0px 0px 10px 10px;
+  background: #fff;
+}
+
+.vc-search {
+  color: #999;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.vc-showcase {
+  width: 722px;
+  height: 299px;
+  top: 327px;
+  left: 518px;
+}/*# sourceMappingURL=main.css.map */
